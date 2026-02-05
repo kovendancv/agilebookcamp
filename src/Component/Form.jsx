@@ -277,7 +277,7 @@ if (state.succeeded) {
   >
     Apply Now – Final Discount Inside
   </Button>
-  <p className="submit-text">✓ By providing your contact details you agreed to our <b><a href="https://www.axiglobe.com/cancellation-refund-policy">Privacy Policy</a></b> & <b><a href="https://www.axiglobe.com/terms-and-conditions">Terms and Conditions.</a></b> </p>
+  <p className="submit-text">✓ By providing your contact details you agreed to our <b><a href="https://www.agilebookcamp.com/">Privacy Policy</a></b> & <b><a href="https://www.agilebookcamp.com/">Terms and Conditions.</a></b> </p>
 </div>
 
   </form>
